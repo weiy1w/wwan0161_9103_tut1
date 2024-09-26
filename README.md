@@ -1,15 +1,15 @@
 ## Week8 Quiz - Major Project Inspiration
 ### Part 1: Imaging Technique Inspiration
-![First Inspiration Image](readmeimage\01-OWB-VINYL-ALBUM-FRONT.jpg)
+![First Inspiration Image](readmeimage/01-OWB-VINYL-ALBUM-FRONT.jpg)
 
-![Second Inspiration Image](readmeimage\04-UNDERWORLD-junkhead.jpg)
+![Second Inspiration Image](readmeimage/04-UNDERWORLD-junkhead.jpg)
 [*underworld oblivion with bells* 2007](https://a-g-i.org/user/JohnWarwicker/view/projects/)
 
 These two images are the source of my inspiration, and they are both from the artist John Warwicker. In *Underworld "Junkhead" Album cover* and *OWB Vinyl Album Front*, the combination of abstract layers, rough textures, and typography creates a very unique visual effect. Based on the compositional structure of the chosen artwork I want to incorporate a similar sense of random texture layering into my projects. And focus on the interacted texts to create a vibrant and dynamic effect, ideal for interactive digital art works. This technique meets the creative and visual complexity requirements of the project, making the design more visually appealing, while also providing ample space for experimentation with abstract shapes and color mixing effects.
 
 ### Part 2: Coding Technique Exploration
 
-![Particle System visual reference](readmeimage\Cosmic-Sands-xladn0.jpg)
+![Particle System visual reference](readmeimage/Cosmic-Sands-xladn0.jpg)
 [*Cosmic Sands* xladn0 2024](https://p5js.org/sketches/2211359/)
 
 I will be implementing abstract textures and dynamic text effects from John Warwicker's work using the p5.js library. The core idea is the Particle system, which creates organic, flowing textures through the particle class and the noise() function. I would customise the visual effects by adjusting particle counts, noise parameters, and movement algorithms. 
