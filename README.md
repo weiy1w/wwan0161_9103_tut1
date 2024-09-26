@@ -14,7 +14,7 @@ These two images are the source of my inspiration, and they are both from the ar
 
 I will be implementing abstract textures and dynamic text effects from John Warwicker's work using the p5.js library. The core idea is the Particle system, which creates organic, flowing textures through the particle class and the noise() function. I would customise the visual effects by adjusting particle counts, noise parameters, and movement algorithms. 
 
-![Text coding visual reference](readmeimage\Technology-is-not-neutral-Vamoss.png)
-[*Technology is not neutral* Vamoss 2024](https://p5js.org/sketches/2215570/)
+![Text coding visual reference](readmeimage/Text-painter-from-book-Generative-Design.png)
+[*Text painter: from book Generative Design* Jerome 2024](https://openprocessing.org/sketch/2332297)
 
-For text part, the loadFont() and textToPoints() functions can be combined to convert the text into a dot matrix, which can then be distorted and animated by random algorithms to create a unique interactive layout effect. This approach achieves the desired visual complexity while maintaining the interactivity.
+For text part, my idea is to draw text through mouse interaction, and combine font rotation and deformation effects to increase visual effects and achieve dynamic font drawing. Every time the mouse moves, the code adjusts the font size based on the distance of the mouse, and the text rotates across the canvas, creating an angular distortion of the text. Through repeated text drawing and interaction, a constantly changing and unique text track is formed on the screen increasing interest visually.
